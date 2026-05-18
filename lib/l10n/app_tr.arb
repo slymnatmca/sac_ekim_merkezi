@@ -1,0 +1,81 @@
+{
+  "@@locale": "tr",
+  
+  "appTitle": "Saç Ekim Kliniği",
+  "login": "Giriş Yap",
+  "register": "Kayıt Ol",
+  "logout": "Çıkış Yap",
+  "email": "E-posta",
+  "password": "Şifre",
+  "forgotPassword": "Şifremi Unuttum?",
+  "rememberMe": "Beni Hatırla",
+  "patient": "Hasta",
+  "doctor": "Doktor",
+  "welcome": "Hoş Geldiniz",
+  "profile": "Profil",
+  "settings": "Ayarlar",
+  "darkMode": "Karanlık Mod",
+  "language": "Dil",
+  "premium": "Premium",
+  "basic": "Temel",
+  "upgrade": "Premium'a Yükselt",
+  
+  "dashboard": "Ana Sayfa",
+  "careGuide": "Bakım Rehberi",
+  "consultation": "Konsültasyon",
+  "chat": "Sohbet",
+  "patients": "Hastalar",
+  
+  "week": "Hafta",
+  "day": "Gün",
+  "transplantDate": "Ekim Tarihi",
+  "currentWeek": "Mevcut Hafta",
+  
+  "uploadPhoto": "Fotoğraf Yükle",
+  "addNote": "Not Ekle",
+  "send": "Gönder",
+  "reply": "Cevapla",
+  "answered": "Cevaplanmış",
+  "pending": "Beklemede",
+  
+  "doctorComment": "Doktor Yorumu",
+  "patientNote": "Hasta Notu",
+  "noCommentYet": "Henüz yorum yok",
+  
+  "premiumFeatures": "Premium Özellikler",
+  "liveChat": "Doktor ile Canlı Sohbet",
+  "unlimitedPhotos": "Sınırsız Fotoğraf Yükleme",
+  "prioritySupport": "Öncelikli Destek",
+  "buyNow": "Şimdi Satın Al",
+  
+  "selectDoctor": "Doktor Seçin",
+  "selectDate": "Tarih Seçin",
+  "isPremium": "Premium Hesap",
+  
+  "totalPatients": "Toplam Hasta",
+  "unansweredConsultations": "Cevaplanmamış Konsültasyonlar",
+  "search": "Ara",
+  
+  "loginError": "Geçersiz e-posta veya şifre",
+  "requiredField": "Bu alan zorunludur",
+  
+  "week1Title": "Hafta 1-2: İlk Günler",
+  "week1Desc": "Saç ekimi sonrası kritik ilk günler. Yıkama yasağı, uyku pozisyonu önemli.",
+  "week1Tips": "• Ekim bölgesine dokunmayın\n• Başınızı yüksekte tutarak uyuyun\n• Doğrudan güneş ışığından kaçının\n• Reçete edilen ilaçları alın",
+  
+  "week3Title": "Hafta 3-4: İlk Yıkama",
+  "week3Desc": "İlk yıkama dönemi ve kabuklanma.",
+  "week3Tips": "• Özel şampuanla nazikçe yıkayın\n• Kabuklar dökülmeye başlayacak\n• Kaşımaktan kaçının\n• Güneş korumasına devam edin",
+  
+  "week5Title": "Hafta 5-8: Şok Dökülme",
+  "week5Desc": "Geçici saç dökülme dönemi - tamamen normal.",
+  "week5Tips": "• Dökülme konusunda endişelenmeyin\n• Bu doğal bir süreç\n• Yeni saçlar çıkacak\n• Sağlıklı beslenin",
+  
+  "week9Title": "Hafta 9-12: Yeni Çıkış",
+  "week9Desc": "Yeni saçlar çıkmaya başlar.",
+  "week9Tips": "• Yeni saçlar başta ince olacak\n• Sabırlı olun\n• Bakım rutinine devam edin\n• Bol su için",
+  
+  "week13Title": "Hafta 13-16: Büyüme ve Bakım",
+  "week13Desc": "Saçlar büyümeye ve güçlenmeye devam eder.",
+  "week13Tips": "• Saçlar zamanla kalınlaşacak\n• Düzenli kesim yapılabilir\n• Yumuşak saç ürünleri kullanın\n• Sağlıklı yaşam tarzını sürdürün"
+}

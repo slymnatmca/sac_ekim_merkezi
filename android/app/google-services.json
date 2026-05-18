@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071687363327",
+    "project_id": "sacekimmerkezi-85e99",
+    "storage_bucket": "sacekimmerkezi-85e99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071687363327:android:0442a0f8f3075ab647faca",
+        "android_client_info": {
+          "package_name": "com.hairclinic.sac_ekim_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmXyD0h7rlO1_UrEKyTzE8bzNFJ7zckFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,81 @@
+{
+  "@@locale": "en",
+  
+  "appTitle": "Hair Transplant Clinic",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "email": "Email",
+  "password": "Password",
+  "forgotPassword": "Forgot Password?",
+  "rememberMe": "Remember Me",
+  "patient": "Patient",
+  "doctor": "Doctor",
+  "welcome": "Welcome",
+  "profile": "Profile",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "premium": "Premium",
+  "basic": "Basic",
+  "upgrade": "Upgrade to Premium",
+  
+  "dashboard": "Dashboard",
+  "careGuide": "Care Guide",
+  "consultation": "Consultation",
+  "chat": "Chat",
+  "patients": "Patients",
+  
+  "week": "Week",
+  "day": "Day",
+  "transplantDate": "Transplant Date",
+  "currentWeek": "Current Week",
+  
+  "uploadPhoto": "Upload Photo",
+  "addNote": "Add Note",
+  "send": "Send",
+  "reply": "Reply",
+  "answered": "Answered",
+  "pending": "Pending",
+  
+  "doctorComment": "Doctor's Comment",
+  "patientNote": "Patient's Note",
+  "noCommentYet": "No comment yet",
+  
+  "premiumFeatures": "Premium Features",
+  "liveChat": "Live Chat with Doctor",
+  "unlimitedPhotos": "Unlimited Photo Uploads",
+  "prioritySupport": "Priority Support",
+  "buyNow": "Buy Now",
+  
+  "selectDoctor": "Select Doctor",
+  "selectDate": "Select Date",
+  "isPremium": "Premium Account",
+  
+  "totalPatients": "Total Patients",
+  "unansweredConsultations": "Unanswered Consultations",
+  "search": "Search",
+  
+  "loginError": "Invalid email or password",
+  "requiredField": "This field is required",
+  
+  "week1Title": "Week 1-2: First Days",
+  "week1Desc": "Critical first days after hair transplant. No washing, proper sleep position.",
+  "week1Tips": "• Do not touch the transplanted area\n• Sleep with head elevated\n• Avoid direct sunlight\n• Take prescribed medications",
+  
+  "week3Title": "Week 3-4: First Wash",
+  "week3Desc": "First washing period and scab formation.",
+  "week3Tips": "• Gentle washing with special shampoo\n• Scabs will start to fall\n• Avoid scratching\n• Continue sun protection",
+  
+  "week5Title": "Week 5-8: Shock Loss",
+  "week5Desc": "Temporary hair shedding period - completely normal.",
+  "week5Tips": "• Don't worry about shedding\n• This is a natural process\n• New hair will grow\n• Maintain healthy diet",
+  
+  "week9Title": "Week 9-12: New Growth",
+  "week9Desc": "New hair starts to emerge.",
+  "week9Tips": "• New hair will be thin initially\n• Be patient\n• Continue care routine\n• Stay hydrated",
+  
+  "week13Title": "Week 13-16: Growth & Care",
+  "week13Desc": "Hair continues to grow and strengthen.",
+  "week13Tips": "• Hair will thicken over time\n• Regular trimming is okay\n• Use gentle hair products\n• Maintain healthy lifestyle"
+}
