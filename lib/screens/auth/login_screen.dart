@@ -124,7 +124,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     contentPadding: EdgeInsets.zero,
                   ),
                   const SizedBox(height: 24),
-                  
+                  //Deneme
                   SizedBox(
                     width: double.infinity,
                     child: CustomButton(
@@ -135,7 +135,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     ),
                   ),
                   const SizedBox(height: 16),
-                  
+                  //
                   TextButton(
                     onPressed: () => Navigator.of(context).pushNamed('/forgot-password'),
                     child: Text(l10n.forgotPassword),
